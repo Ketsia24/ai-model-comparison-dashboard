@@ -1,0 +1,16 @@
+[theme]
+# Green AI Theme - Eco-tech color palette
+primaryColor="#10b981"           # Emerald green (main accent)
+backgroundColor="#f0f9f4"         # Very light mint green
+secondaryBackgroundColor="#ffffff" # White for cards
+textColor="#065f46"               # Deep green for text
+font="sans serif"
+
+[server]
+maxUploadSize=200
+headless=true
+enableCORS=false
+enableXsrfProtection=true
+
+[browser]
+gatherUsageStats=false
