@@ -1,8 +1,11 @@
-<img width="947" height="391" alt="image" src="https://github.com/user-attachments/assets/119b4078-0ed0-49e3-8967-52618597e536" />
-<img width="900" height="389" alt="image" src="https://github.com/user-attachments/assets/72338aeb-3d06-408c-a4a3-672ef5736dc2" />
-<img width="890" height="397" alt="image" src="https://github.com/user-attachments/assets/e2d79fad-976b-43cc-adbf-51c6aaf427c3" />
-<img width="884" height="362" alt="image" src="https://github.com/user-attachments/assets/bb705fda-1c61-4feb-9bae-2a474ae86e11" />
-<img width="848" height="413" alt="image" src="https://github.com/user-attachments/assets/c6f70c26-da8a-40e9-8b4e-9104e51da8ca" />
+<img width="874" height="397" alt="image" src="https://github.com/user-attachments/assets/00837522-6062-4df1-9186-ba3e9687f64f" />
+<img width="904" height="386" alt="image" src="https://github.com/user-attachments/assets/6629eafd-0aec-409d-8b9b-349287e6a5be" />
+<img width="901" height="389" alt="image" src="https://github.com/user-attachments/assets/82cbf830-15ab-4ba9-b51d-d5bedac8536b" />
+<img width="867" height="386" alt="image" src="https://github.com/user-attachments/assets/732a667d-6e57-4cc9-9736-b52929c0f775" />
+
+
+
+
 
 # AI Model Comparison Dashboard
 
